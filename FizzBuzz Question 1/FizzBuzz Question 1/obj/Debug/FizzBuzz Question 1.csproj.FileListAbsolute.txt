@@ -1,0 +1,7 @@
+C:\Users\willi\source\repos\FizzBuzz\FizzBuzz Question 1\FizzBuzz Question 1\bin\Debug\FizzBuzz Question 1.exe.config
+C:\Users\willi\source\repos\FizzBuzz\FizzBuzz Question 1\FizzBuzz Question 1\bin\Debug\FizzBuzz Question 1.exe
+C:\Users\willi\source\repos\FizzBuzz\FizzBuzz Question 1\FizzBuzz Question 1\bin\Debug\FizzBuzz Question 1.pdb
+C:\Users\willi\source\repos\FizzBuzz\FizzBuzz Question 1\FizzBuzz Question 1\obj\Debug\FizzBuzz Question 1.csprojResolveAssemblyReference.cache
+C:\Users\willi\source\repos\FizzBuzz\FizzBuzz Question 1\FizzBuzz Question 1\obj\Debug\FizzBuzz Question 1.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\FizzBuzz\FizzBuzz Question 1\FizzBuzz Question 1\obj\Debug\FizzBuzz Question 1.exe
+C:\Users\willi\source\repos\FizzBuzz\FizzBuzz Question 1\FizzBuzz Question 1\obj\Debug\FizzBuzz Question 1.pdb
